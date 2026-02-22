@@ -2,7 +2,7 @@
 
 # Kyle
 
-backend engineer · java & spring boot · python & fastapi
+Backend Engineer · Java & Spring Boot · Python & FastAPI
 
 <br/>
 
