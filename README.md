@@ -1,8 +1,9 @@
 <div align="center">
 
-# Kyle
+# Kyle Tilley
 
-Backend Engineer · Java & Spring Boot · Python & FastAPI
+Backend Engineer <br/> <br/>
+Java & Spring Boot · Python & FastAPI
 
 <br/>
 
