@@ -2,8 +2,7 @@
 
 # Kyle Tilley
 
-Backend Software Engineer <br/> <br/>
-Python & FastAPI
+Software Engineer <br/> <br/>
 
 <br/>
 
